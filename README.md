@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://source.unsplash.com/random" alt="this is so much fun" style="width:200px; height: 200px;">
 <div>
 <a href="https://github.com/erich-queiroz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erich-queiroz&layout=compact&langs_count=7&theme=dracula"/>
